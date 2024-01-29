@@ -19,11 +19,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 
 ### The challenge
-+---------------------------------------------------------------------+
-|  Users should be able to:                                           |
-|  - View the optimal layout depending on their device's screen size  |
-|  - See hover and focus states for interactive elements              |
-+---------------------------------------------------------------------+
+
+Users should be able to:
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
 
 This is a bit of an update. I got frustrated with GitHub, as it is so extremely un-intuitive, so I deleted all my repositories and started over. In doing so I updated some all of the challenges.
 
