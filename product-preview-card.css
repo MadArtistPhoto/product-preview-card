@@ -10,7 +10,7 @@
     --fontcolor200:hsl(212, 21%, 14%);
     --fontcolor300:#3D8168;
     --container-background: rgb(224, 221, 223);
-    --main-background: #fce6bd;
+    --main-background: hsl(30, 38%, 92%);
     --main-border: #c5c3c3;
 }
 
@@ -23,7 +23,7 @@
 
 #container
 {
-background-color: var(--container-background);
+background-color: var(--card-background);
 color: var(--color);
 height: 100vh;
 width: 100vw;
