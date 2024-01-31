@@ -33,7 +33,7 @@ This is a bit of an update. I got frustrated with GitHub, as it is so extremely 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL:[] (https://madartistphoto.github.io/product-preview-card/)
 
 ## My process
 
